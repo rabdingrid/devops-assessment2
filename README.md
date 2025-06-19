@@ -25,6 +25,6 @@ Fetching the image pushed in DockerHub
 
 Running the static web pages on browser
 
-<img width="471" alt="Screenshot 2025-06-19 at 7 25 38 PM" src="https://github.com/user-attachments/assets/0a8831b0-8889-49c4-b861-bfb50a0b7eb4" />
-
 <img width="1511" alt="Screenshot 2025-06-19 at 7 19 44 PM" src="https://github.com/user-attachments/assets/2b4431dd-c1e3-4390-96ef-420d9fcf5e0d" />
+
+<img width="471" alt="Screenshot 2025-06-19 at 7 25 38 PM" src="https://github.com/user-attachments/assets/0a8831b0-8889-49c4-b861-bfb50a0b7eb4" />
